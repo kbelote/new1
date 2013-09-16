@@ -9,6 +9,7 @@ namespace Git_Project
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("new Line");
         }
     }
 }
